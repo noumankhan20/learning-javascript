@@ -12,4 +12,4 @@ console.log(newName[1]);// as it is only easy for you to access through an index
 
 //similarly you can use many string methods in javascript like
 console.log(newName.length);// for more like this you can use many string methods in javascript
-// you can use teh console.log and see in the F12 console in the browser 
+// you can use teh console.log and see in the F12 console in the browser  

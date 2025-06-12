@@ -16,3 +16,4 @@ const mynumber=myArr.splice(1,3)
 console.log("C",mynumber);
 
 // these were just another methods of the arrays which are known as slice and splice 
+// if you want to learn more about it you can go to mdn and can see more methods of the arrays 

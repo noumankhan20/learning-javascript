@@ -26,3 +26,10 @@ const obj3={...obj1,...obj2}
 console.log(obj3)// here is how simply we can combine two objects using the spread operator
 console.log(Object.keys(nouman))// as we can see here we got all the keys of the fucntion nouman and that to in an array
 console.log(Object.values(nouman))// as expected the output
+
+
+console.log(nouman.hasOwnProperty('age'));// this will just tell us about that this fucntion is having that value or not 
+
+
+// de structring the objects
+

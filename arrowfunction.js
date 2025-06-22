@@ -47,3 +47,6 @@ console.log(add(20,5));// we can also do it like this as it is called as implici
 // for the interviews we need to have a look at IIFE
 
 
+
+// imp thing to remember is that browser is having different global execution context rather than this node.js dino and others
+// and in browser when we do console.log(this) we get the window object value in its output and in others node.js as seen above we get empty {} like this 

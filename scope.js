@@ -48,7 +48,7 @@ function addone(num1){
     return num1+1
 }
 
-console.log(addtwo(9))// here what we did that ki we called it before initializing so got the error this can be 
+// console.log(addtwo(9))// here what we did that ki we called it before initializing so got the error this can be 
 // called as the a bit introduction about hoisting 
 const addtwo=function(num1){
     return num1+3 
